@@ -1,0 +1,17 @@
+{        
+    "name": "AYE ZALUPA", //Имя темы
+    "version": "0.0.1",
+    "engines": {
+        "vscode": ">=0.9.0-pre.1"
+    },
+    "publisher": "dodik", //имя автора темы
+   "contributes": {
+        "themes": [
+            {
+                "label": "Green Theme",
+                "uiTheme": "vs-dark",
+       "path": "./theme/green-pink-chaos-color-theme.json"
+            }
+        ]
+    }
+}
